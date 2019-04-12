@@ -9,11 +9,11 @@ hide_title: true
 
 ## Table of Contents
 
-- [Why should I use an immutable-focused library such as Immutable.JS?](#why-should-i-use-an-immutable-focused-library-such-as-immutable-js)
-- [Why should I choose Immutable.JS as an immutable library?](#why-should-i-choose-immutable-js-as-an-immutable-library)
-- [What are the issues with using Immutable.JS?](#what-are-the-issues-with-using-immutable-js)
-- [Is Immutable.JS worth the effort?](#is-using-immutable-js-worth-the-effort)
-- [What are some opinionated Best Practices for using Immutable.JS with Redux?](#what-are-some-opinionated-best-practices-for-using-immutable-js-with-redux)
+- [Why should I use an immutable-focused library such as Immutable.JS?](#why-should-i-use-an-immutable-focused-library-such-as-immutablejs)
+- [Why should I choose Immutable.JS as an immutable library?](#why-should-i-choose-immutablejs-as-an-immutable-library)
+- [What are the issues with using Immutable.JS?](#what-are-the-issues-with-using-immutablejs)
+- [Is Immutable.JS worth the effort?](#is-using-immutablejs-worth-the-effort)
+- [What are some opinionated Best Practices for using Immutable.JS with Redux?](#what-are-some-opinionated-best-practices-for-using-immutablejs-with-redux)
 
 ## Why should I use an immutable-focused library such as Immutable.JS?
 
